@@ -16,9 +16,8 @@
 5. 一山：动手实践：如何写一个简单的 Role 安装 package
 6. 梓懿&一山：实战练习 Workshop：（50 mins）
     - 配置 Tomcat 服务器，并运行示例 war
-
-6. 梓懿：Ansible 进阶内容和参考资料（5 mins）
-7. 所有人：Q & A （20 mins）
+7. 梓懿：Ansible 进阶内容和参考资料（5 mins）
+8. 所有人：Q & A （20 mins）
      （以下列举一些常见问题）
     - 为什么不手工配置好服务器，然后制作服务器镜像？（Infrastructure as code）
     - 为什么不使用 Shell 脚本（强调 Ansible 的一些特点）
