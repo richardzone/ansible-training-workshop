@@ -1,6 +1,7 @@
 # Ansible Training Workshop 
 
 日程计划 & 分工：
+
 1. 明兴：DevOps 和配置管理简介，为什么要用 Ansible（15 mins）
 2. 明兴：Ansible 基础概念 Part 1（20 mins）
     - Ansible CLI 介绍
