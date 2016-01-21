@@ -1,5 +1,5 @@
 ---
-- name: Install packages
+- name: Install packages {{packages}}
   apt: name={{item}} state=present update_cache=true
   sudo: yes
   with_items: "{{packages}}"
