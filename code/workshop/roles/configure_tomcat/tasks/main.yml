@@ -1,0 +1,5 @@
+---
+- name: copy our own config file
+  template: src=server.xml.j2 dest={{ tomcat_server_config }}
+  sudo: yes
+  notify: restart tomcat

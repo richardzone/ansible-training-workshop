@@ -4,5 +4,6 @@
   sudo: yes
 
 - name: deploy war
-  copy: src=example.war dest={{ webapp_root }} mode=0644
+  copy: src={{ war_file }} dest={{ webapp_root }} mode=0644
   sudo: yes
+  notify: restart tomcat
