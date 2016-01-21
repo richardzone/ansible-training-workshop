@@ -1,0 +1,4 @@
+---
+- name: copy our own config file
+  template: src=server.xml.j2 dest=/etc/tomcat/server.xml
+  sudo: yes

@@ -1,0 +1,8 @@
+---
+- name: create {{ webapp_root }}
+  file: path={{ webapp_root }} owner=tomcat7 group=tomcat7 mode=0755 state=directory
+  sudo: yes
+
+- name: deploy war
+  copy: src=example.war dest={{ webapp_root }} mode=0644
+  sudo: yes

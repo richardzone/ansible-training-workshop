@@ -1,0 +1,12 @@
+---
+- hosts: all
+  vars:
+    packages: 
+      - openjdk-7-jre
+      - tomcat7
+    webapp_root: /apps/webapps/
+
+  roles:
+   - { role: install_packages }
+   - { role: configure_tomcat }
+   - { role: deploy_war }
