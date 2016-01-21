@@ -2,4 +2,4 @@
 - hosts: all
 
   roles:
-   - { role: install_packages, packages: [openjdk-7-jre, tomcat7]}
+   - { role: install_packages, packages: [openjdk-7-jre, tomcat7] }
