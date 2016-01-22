@@ -7,7 +7,7 @@
 
 ## 提示
 
-一些可能有帮助的Ansible的Module:
+可能有帮助的Ansible Modules:
 
 - apt
 - copy
