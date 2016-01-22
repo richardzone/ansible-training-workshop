@@ -1,2 +1,2 @@
 [apache]
-192.168.33.10 ansible_user=vagrant
+192.168.33.10 ansible_ssh_user=vagrant
