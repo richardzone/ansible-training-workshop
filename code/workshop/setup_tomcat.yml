@@ -7,6 +7,6 @@
     webapp_root: /apps/webapps/
 
   roles:
-   - { role: install_packages }
-   - { role: configure_tomcat }
-   - { role: deploy_war }
+   - install_packages
+   - configure_tomcat
+   - deploy_war
