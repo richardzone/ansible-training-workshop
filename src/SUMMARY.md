@@ -1,6 +1,6 @@
 # Summary
 
-* [DevOps 和配置管理简介](Intro.md)
+* [为什么要用Ansible](Intro.md)
 * [Ansible 基础概念：第一部分](AnsibleBasicsPart1.md)
   * [Ansible CLI](AnsibleCLI.md)
   * [Inventory](Inventory.md)

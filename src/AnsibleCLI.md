@@ -1,6 +1,7 @@
-## Ansible Intro
+## Ansible Command Line Tool
+ - ansible
+ - ansible-playbook
+ - ansible-galaxy
 
-  - What is Ansible (architecture img)
-  - Configuration
-  - Compare with Others
+
 
