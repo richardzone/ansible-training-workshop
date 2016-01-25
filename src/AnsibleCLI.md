@@ -1,7 +1,6 @@
 ## Ansible Intro
 
-  - What is Ansible (img)
+  - What is Ansible (architecture img)
   - Configuration
-  - Advantages
   - Compare with Others
 
