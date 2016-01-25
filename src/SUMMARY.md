@@ -12,8 +12,9 @@
   * [YAML 语言基础](YAML.md)
   * [Playbooks, Roles & Tasks](Playbooks.md)
 * [动手实践](Practice2.md)
-  * [写一个简单的 Role 安装 Package](SimpleRole.md)
-  * [写成通用的 Install Role](InstallRole.md)
+  * [写一个简单的Playbook](SimplePlayBook.md)
+  * [重构：使用Role安装Package](SimpleRole.md)
+  * [重构：写成通用的Install Role](InstallRole.md)
 * [实战练习 Workshop](Workshop.md)
   * [配置 Tomcat 服务器](Tomcat.md)
 * [Ansible 进阶内容和参考资料]
