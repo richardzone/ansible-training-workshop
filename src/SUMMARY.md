@@ -2,9 +2,10 @@
 
 * [DevOps 和配置管理简介](Intro.md)
 * [Ansible 基础概念：第一部分](AnsibleBasicsPart1.md)
-  * [Ansible CLI 介绍](AnsibleCLI.md)
-  * [工作原理](AnsiblePushModel.md)
+  * [Ansible Intro](AnsibleCLI.md)
   * [Inventory](Inventory.md)
+  * [Playbook](Playbooks.md)
+  * [Variables](Variables.md)
   * [Modules](Modules.md)
 * [动手实践](Practice1.md)
   * [ansible + ping module](PingModule.md)
