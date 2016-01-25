@@ -6,7 +6,7 @@
 # playbook.xml
 ---
 - hosts: all
-  rolls:
+  roles:
     install_java
 ```
 
