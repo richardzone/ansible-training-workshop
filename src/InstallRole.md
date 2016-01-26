@@ -1,5 +1,7 @@
 ## 写成通用的 Install Role
 
+仅仅将task抽取到Role并不能减少代码量，我们仅仅是把代码分散到不同的文件，我们可以使用Variable让Role的复用性更高。
+
 ### Variable
 
 -variable可以让role可以重复复用。
