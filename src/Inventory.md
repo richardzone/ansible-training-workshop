@@ -23,6 +23,6 @@ example.com
 ```
 
 ## 使用方式
-     - 全局
-     - 通过ansible.cfg 配置
-     - Command Line 指定
+* 全局
+* 通过ansible.cfg 配置
+* Command Line 指定
