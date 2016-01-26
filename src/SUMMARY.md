@@ -1,6 +1,6 @@
 # Summary
 
-* [为什么要用Ansible](Intro.md)
+* [为什么要用 Ansible](Intro.md)
 * [Ansible 基础概念：第一部分](AnsibleBasicsPart1.md)
   * [Ansible CLI](AnsibleCLI.md)
   * [Inventory](Inventory.md)
@@ -17,7 +17,8 @@
   * [重构：写成通用的Install Role](InstallRole.md)
 * [实战练习 Workshop](Workshop.md)
   * [配置 Tomcat 服务器](Tomcat.md)
-* [Ansible 进阶内容和参考资料]
+* [Ansible 在项目 Pipeline 上的应用](AnsibleInProject.md)
+* [Ansible 进阶内容和参考资料](AdvancedTopic.md)
   * [Ansible 工作模式](WorkModel.md)
   * [Ansible 2.0](Ansible2.md)
   * [参考资料](Reference.md)
