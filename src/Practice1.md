@@ -7,3 +7,11 @@ ansible -i inventory all -m ping
 ansible -i inventory apache -m ping
 ansible -i inventory apache -m setup
 ```
+
+Note:
+
+inventery文件
+```ini
+[apache]
+192.168.33.10
+```
