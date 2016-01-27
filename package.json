@@ -4,8 +4,8 @@
   "description": "Ansible Training Workshop",
   "main": "index.js",
   "scripts": {
-    "build": "gitbook build ./src --output=./public",
-    "serve": "gitbook serve ./src --output=./public",
+    "build": "gitbook build ./src ./public",
+    "serve": "gitbook serve ./src ./public",
     "start": "npm run serve"
   },
   "repository": {
